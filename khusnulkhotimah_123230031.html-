@@ -1,29 +1,5 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <title>Script GEE NBR</title>
-  <style>
-    body {
-      font-family: monospace;
-      background-color: #f5f5f5;
-      padding: 20px;
-    }
-    pre {
-      background: #1e1e1e;
-      color: #dcdcdc;
-      padding: 15px;
-      border-radius: 8px;
-      overflow-x: auto;
-      line-height: 1.5;
-    }
-  </style>
-</head>
+// Script Google Earth Engine (Khusnul Khotimah NIM.123230031)- NBR Time Series
 
-<body>
-
-<h2>Script Google Earth Engine (Khusnul Khotimah NIM.123230031)- NBR Time Series</h2>
-
-<pre><code>
 /* TIME-SERIES NBR /
 // Referensi: Alcaras, E., Costantino, D., Guastaferro, F., Parente, C., & Pepe, M. (2022). Normalized Burn Ratio Plus (NBR+): A New Index for Sentinel-2 Imagery. Remote Sensing, 14(7), 1727. https://doi.org/10.3390/rs14071727
 // Referensi: Rizqika, S. N., Prasetyo, Y., & Yusuf, M. A. (2022). ANALISIS AKURASI PERBANDINGAN ALGORITMA INDEKS KEBAKARAN HUTAN (NBR, BAIS2, MIRBI, dan NDVI) BERDASARKAN CITRA SENTINEL-2A (Studi Kasus :Taman Nasional Gunung Merbabu Provinsi Jawa Tengah). Elipsoida : Jurnal Geodesi dan Geomatika, 5(1), 1-8. https://doi.org/10.14710/elipsoida.2022.16858
